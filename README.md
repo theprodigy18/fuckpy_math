@@ -1,0 +1,1 @@
+# fuckpy_math
